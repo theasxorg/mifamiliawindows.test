@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <date>2012-10-25T17:06:00</date>
+  <primaryImageUrlFormat>http://cdn.marketplaceimages.windowsphone.com/v3.2/en-US/image/{0}?width=240&amp;height=240&amp;resize=true</primaryImageUrlFormat>
+  <cacheTimeoutMinutes>720</cacheTimeoutMinutes>
+
+  <discoveryCategories>
+    <discovery>
+      <name>kids</name>
+      <title>apps for kids</title>
+      <file/>
+    </discovery>
+    <discovery>
+      <name>parents</name>
+      <title>apps for parents</title>
+      <file/>
+    </discovery>
+  </discoveryCategories>
+
+  <discoveryScreens>
+    <screen>
+      <name>kids</name>
+      <title>apps for kids</title>
+      <pages>
+        <page>
+          <title>by category</title>
+          <items>
+            <item>
+              <category>Activity Book</category>
+              <title>activity book</title>
+            </item>
+            <item>
+              <category>Animal Fun</category>
+              <title>animal fun</title>
+            </item>
+            <item>
+              <category>Arts</category>
+              <title>arts</title>
+            </item>
+            <item>
+              <category>Cars trains and more</category>
+              <title>cars, trains and more</title>
+            </item>
+            <item>
+              <category>Dress-up and Collages</category>
+              <title>dress-up and collage</title>
+            </item>
+            <item>
+              <category>e-books</category>
+              <title>e-books</title>
+            </item>
+            <item>
+              <category>Foreign Language</category>
+              <title>foreign language</title>
+            </item>
+            <item>
+              <category>Holiday Fun for Kids</category>
+              <title>holiday fun</title>
+            </item>
+            <item>
+              <category>Literacy</category>
+              <title>literacy</title>
+            </item>
+            <item>
+              <category>Math</category>
+              <title>math</title>
+            </item>
+            <item>
+              <category>Media for Kids</category>
+              <title>media for kids</title>
+            </item>
+            <item>
+              <category>Memory</category>
+              <title>memory</title>
+            </item>
+            <item>
+              <category>Music</category>
+              <title>music</title>
+            </item>
+            <item>
+              <category>Puzzles and Strategy</category>
+              <title>puzzles and strategy</title>
+            </item>
+            <item>
+              <category>Skill Development</category>
+              <title>skill development</title>
+            </item>
+          </items>
+        </page>
+
+        <page>
+          <title>by age</title>
+          <items>
+            <item>
+              <category>Toddler (18-36 months)</category>
+              <title>toddler (18-36 months)</title>
+            </item>
+            <item>
+              <category>Pre-schooler (3-5 years)</category>
+              <title>pre-schooler (3-5 years)</title>
+            </item>
+            <item>
+              <category>Young Child (5-8 years)</category>
+              <title>young child (5-8 years)</title>
+            </item>
+            <item>
+              <category>Older Child (9-12 years)</category>
+              <title>older child (9-12 years)</title>
+            </item>
+            <item>
+              <category>Teenager</category>
+              <title>teenager</title>
+            </item>
+          </items>
+        </page>
+      </pages>
+    </screen>
+
+    <screen>
+      <name>parents</name>
+      <title>apps for parents</title>
+      <pages>
+        <page>
+          <title>by category</title>
+          <items>
+            <item>
+              <category>Finances</category>
+              <title>finances</title>
+            </item>
+            <item>
+              <category>Games</category>
+              <title>games</title>
+            </item>
+            <item>
+              <category>Health</category>
+              <title>health</title>
+            </item>
+            <item>
+              <category>Holiday Fun</category>
+              <title>holiday fun</title>
+            </item>
+            <item>
+              <category>Parenting Tools</category>
+              <title>parenting tools</title>
+            </item>
+            <item>
+              <category>Photography and Video</category>
+              <title>photography and video</title>
+            </item>
+            <item>
+              <category>Productivity</category>
+              <title>productivity</title>
+            </item>
+            <item>
+              <category>Social Networking</category>
+              <title>social networking</title>
+            </item>
+            <item>
+              <category>Stress Relievers</category>
+              <title>stress relievers</title>
+            </item>
+            <item>
+              <category>Study Aids</category>
+              <title>study aids</title>
+            </item>
+            <item>
+              <category>Traveling</category>
+              <title>traveling</title>
+            </item>
+          </items>
+        </page>
+
+        <page>
+          <title>by type</title>
+          <items>
+            <item>
+              <category>Expecting</category>
+              <title>expecting</title>
+            </item>
+            <item>
+              <category>Geeky</category>
+              <title>geeky</title>
+            </item>
+            <item>
+              <category>Newborn</category>
+              <title>newborn</title>
+            </item>
+            <item>
+              <category>Puzzle Adict</category>
+              <title>puzzle adict</title>
+            </item>
+          </items>
+        </page>
+      </pages>
+    </screen>
+  </discoveryScreens>
+  <videos>
+    <video>
+      <name>ParentAssist</name>
+      <description>Parenting Tool</description>
+      <image>https://s3.amazonaws.com/BlueEyed_Development/WPParent_App/videos/ParentAssist.png</image>
+      <link><![CDATA[http://youtu.be/2fHLkN0HzDo]]></link>
+    </video>
+    <video>
+      <name>MyTextTwister</name>
+      <description>Fun Texting App</description>
+      <image>https://s3.amazonaws.com/BlueEyed_Development/WPParent_App/videos/MyTextTwister.png</image>
+      <link><![CDATA[http://youtu.be/nSEWVsurVaM]]></link>
+    </video>
+  </videos>
+  <featured>
+      <id>04b03ddb-48ff-471e-a74f-03950694e015</id>
+      <id>3146911c-a6aa-4aeb-883b-51dd42524406</id>
+      <id>0b834072-966d-4b0e-a4de-c0fa59a50cac</id>
+      <id>649347b1-bfde-4d53-a79e-c25a54b66833</id>
+      <id>e9ca5361-7c6f-4f5d-99dd-a3885c8c5e6c</id>
+      <id>7994a337-7253-4ecd-938a-753cba5e1424</id>
+ </featured>
+  <masterListPath>masterListV2.xml</masterListPath>
+</manifest>
