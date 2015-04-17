@@ -9,7 +9,7 @@ else
   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
 
-xmlhttp.open("GET","navigation_kids.xml",false);
+xmlhttp.open("GET","../../../../navigation_kids.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML; 
 
@@ -45,7 +45,7 @@ else
   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
 
-xmlhttp.open("GET","webMasterList.xml",false);
+xmlhttp.open("GET","../../../../webMasterList.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML; 
 
