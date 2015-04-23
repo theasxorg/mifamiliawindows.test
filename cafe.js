@@ -45,7 +45,7 @@ else
   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
 
-xmlhttp.open("GET","../../../../webMasterList.xml",false);
+xmlhttp.open("GET","../../../../mifamiliawindows.com/webMasterList.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML; 
 
