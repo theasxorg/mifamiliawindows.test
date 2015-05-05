@@ -113,7 +113,7 @@ padding-right:20px;
 li.filtersubNavigation
 {
 display:inline;
-padding-right:20px;
+padding-right:15px;
 font:14px/22px 'Segoe UI',Helvetica,Arial,'Sans-Serif';
 }
 
@@ -226,4 +226,71 @@ margin-top: 15px;
 
 .social-media{
 	text-align:right;
+}
+
+.promotional_stripe{
+	width:100%; height:500px; margin-top:45px;
+	
+}
+#blue{
+	background-color:#00bcf2;
+}
+
+#purple{
+	background-color:#9c5098;
+}
+
+.text-stripe{padding-top: 150px;
+font-size: 1.800em; }
+
+#white{color: white;}
+
+#orange{background-color:#fa6800;}
+
+#wpcolor{color:#68217a;}
+
+.subtext-stripe{
+	font-size: 20px;
+    text-align: right;
+    margine-top: 15px;
+	height:30px:
+	
+}
+
+.go-button{
+float: right;
+margin-top: 5px;
+}
+
+.go-button-text{
+	float: right;
+padding-bottom: 5px;
+padding-right: 10px;
+}
+
+div.review-left-container {
+float: left;
+height: 100%;
+display: block;
+width: 252px;
+margin-right: 50px;
+}
+
+div.review-breakdown{
+	font: 25px/1.1 'Segoe UI Light';
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div.windows-rating-padding{
+	padding-top: 10px;
+    height: 30px;
+}
+
+.rating-starts-images{
+	padding-left: 16px;
+}
+.review-tile-image{
+	width:252px;
+	height:252px;
 }
