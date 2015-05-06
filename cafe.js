@@ -80,14 +80,14 @@ for (i=0;i<x.length;i++)
       		document.write("<a href=\"http://apps.microsoft.com/webpdp/app/");
       		document.write(x[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue);
       		document.write("\">");
-      		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='images/W8.png'\"  onmouseover=\"this.src='images/W8_hover.png'\" src=\"images/W8.png\">");
+      		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='../../../../images/W8.png'\"  onmouseover=\"this.src='../../../../images/W8_hover.png'\" src=\"../../../../images/W8.png\">");
       		document.write("</a>");
          }  
 	     if (x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue != "false")
          {
            document.write("<a href=\"http://www.windowsphone.com/s?appid=");
            document.write(x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue);
-           document.write("\"><img id=\"store\"  alt=\"Wp7\" onmouseout=\"this.src='images/WP7.png'\"  onmouseover=\"this.src='images/WP7_hover.png'\" src=\"images/WP7.png\"></a>");
+           document.write("\"><img id=\"store\"  alt=\"Wp7\" onmouseout=\"this.src='../../../../images/WP7.png'\"  onmouseover=\"this.src='../../../../images/WP7_hover.png'\" src=\"../../../../images/WP7.png\"></a>");
 	    }
 	    document.write("</div></div>");
         document.write("<h4>");
