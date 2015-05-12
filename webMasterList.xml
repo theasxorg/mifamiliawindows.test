@@ -2,7 +2,51 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
- <app>
+  <app>
+      <name>Saski Studio Calculator</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e9deb086-21e7-443e-8815-f38801a4e7c4</image>
+	   <win8>false</win8>    
+	<review>0</review>
+      <free>¡Aplicación Gratuita!</free>
+      <tweet><![CDATA[Haz que los peques se vuelvan locos por las mates con Saski: ¡aprender a contar no sólo es fácil sino que es más divertido que nunca!]]></tweet>
+      <bitly>http://bit.ly/SS_Cal</bitly>
+      <id>9b1a9ac2-0825-433c-81f1-63e3669c2962</id>
+      <priority>290515</priority>
+      <categories>
+        <category>Kids</category>
+        <category>Featured</category>
+        <category>3 a 5 años</category>
+        <category>5 a 8 años</category>
+        <category>9 a 12 años</category>
+        <category>Matemáticas</category>
+      </categories>
+      <filters />
+      <url>http://familiawindowsphone.com/las-mejores-aplicaciones-educativas-para-ninos-para-aprender-matematicas-en-windows-phone-a-math-facts/</url>
+      <rating>0</rating>
+      <related />
+    </app>
+   <app>
+      <name>BizXpert Invoice and Inventory</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/bbc9d35f-c3aa-424d-a99f-efff872ee8e2</image>
+	  <win8>false</win8>
+      <review>0</review>
+      <free>¡Aplicación Gratuita!</free>
+      <tweet><![CDATA[¡Crea, envía e imprime facturas fácilmente con BizXpert! ¡Podrás manejar tus gastos, realizar inventarios, horarios y mucho más!]]></tweet>
+      <bitly>http://bit.ly/1OZTu2R</bitly>
+      <id>9c39b011-8cfa-446d-873f-f07dd2cffa37</id>
+      <priority>290415</priority>
+      <categories>
+        <category>Parents</category>
+        <category>Featured</category>
+        <category>Productividad</category>
+		<category>Finanzas</category>
+      </categories>
+      <filters />
+      <url>http://familiawindowsphone.com/aplicacion-para-el%C2%A0-seguimiento-de-presupuesto-finanzas-windows-phone-budget-buddy/</url>
+      <rating>false</rating>
+      <related />
+    </app>
+  <app>
       <name>Forestry</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/d46771ff-2a99-4466-a485-038c8806ad00</image>
 	  <win8>false</win8>
@@ -28,7 +72,7 @@
       <related />
     </app>
   <app>
-      <name><![CDATA[Mash&Co]]></name>
+      <name>Mash&amp;Co</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/8a80d935-11ce-4d9e-b301-297e235d207a</image>
 	  <win8>false</win8>
       <review>0</review>
@@ -50,6 +94,34 @@
      <filters />
       <url>http://windowsphoneparent.com/best-toddler-baby-apps-ducky-on-windows-phone-my-rubber-duck/</url>
       <rating>5</rating>
+      <related />
+    </app>
+   <app>
+      <name>My Cheerful Letters</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1a64e477-5f9b-4cbc-8f26-23762c053d16</image>
+	  <win8>false</win8>    
+	<review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Deja que tus peques aprendan inglés, español y árabe con My Cheerful Letters:¡con gráficos adorables y sonidos para aprender divirtiéndose!]]></tweet>
+      <bitly>http://bit.ly/1JQcgJf</bitly>
+      <id>c2dc9e31-e240-4614-8146-e97bf9a1f047</id>
+      <priority>150129</priority>
+      <categories>
+         <category>Actividades Varias</category>
+	<category>3 a 5 años</category>
+		<category>5 a 8 años</category>
+        <category>Featured</category>
+        <category>Kids</category>
+      </categories>
+      <filters>
+        <filter>6 years old</filter>
+        <filter>3 years old</filter>
+        <filter>4 years old</filter>
+        <filter>5 years old</filter>
+        <filter>educational apps</filter>
+      </filters>
+      <url>http://windowsphoneparent.com/best-preschool-apps-for-toddler-kids-on-windows-phone-2-3-y-o-s-quiz-free</url>
+      <rating>0</rating>
       <related />
     </app>
     <app>
